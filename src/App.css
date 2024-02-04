@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+body {
+  font-family: 'Merriweather', serif;
+  font-family: 'Roboto', sans-serif;
+  background-color: #fcd970;
+  /* d-flex justify-content-center align-items-center */
+}
+
+main {
+  height: 100vh;
+  width: 100vw;
+}
+
+.show-content {
+  border-radius: 15px;
+  box-shadow: 0px 0px 30px 3px #000000;
+}
+
+button {
+  border: none;
+  border-radius: 10px;
+  background-color: #463a00;
+  color: #fff;
+  letter-spacing: 0.8px;
+  word-spacing: 2px;
+}
